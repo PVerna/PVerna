@@ -16,7 +16,7 @@
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div><br/>
 
-Transformando a realidade por meio da tecnologia!
+Transformando o mundo por meio da tecnologia!
 
 ## Um pouco sobre mim:
   Apaixonado por tecnologia desde criança, sou um entusiasta da área, no colégio cursei robótica onde tive o primeiro contato com programação, fiz faculdade de Engenharia Civil, onde atuei por algum tempo e hoje estou estudando programação pela Cubos Academy.
